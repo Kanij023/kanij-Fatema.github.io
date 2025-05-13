@@ -15,6 +15,9 @@
 
 See more info at https://academicpages.github.io/
 
+![image alt]([image_url](https://github.com/Kanij023/kanij-Fatema.github.io/blob/2c979716699735a0886a7475a60c4bce6f9482f8/Kanij%20Fatema%20(1)%20(2).JPG))
+
+
 ## Running locally
 
 When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
